@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <br>
-💡 My Git Stats 💡
+<div align=center><h1>💡 My Git Stats 💡</h1></div>
 
 ![Soylatte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soylatte&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soylatte&layout=compact&theme=dracula)
