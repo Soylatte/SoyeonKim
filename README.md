@@ -12,5 +12,6 @@
 </div>
 <br>
 💡 My Git Stats 💡
+
 ![Soylatte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soylatte&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soylatte&layout=compact&theme=dracula)
