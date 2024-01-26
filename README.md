@@ -1,3 +1,5 @@
+As a versatile front-end developer with an extensive background in International trade and business administration do I bring with me unique and sought-after skill-sets for the field of web development.I am excited to work in a team and apply my expertise to improve user experience and convey information effectively. Additionally, I have a strong aptitude for self-driven learning and can adapt to high-stress environments.
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
