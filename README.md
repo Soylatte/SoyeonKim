@@ -12,9 +12,3 @@
 
 ![Soylatte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soylatte&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soylatte&layout=compact&theme=dracula)
-
-
-<div>
-  <h1>Contact me</h1>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kksoyeon61@gmail.com" target="_blank"> </a>
-</div>
