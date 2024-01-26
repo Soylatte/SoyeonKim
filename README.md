@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=soft&height=300&color=F4C2C2&text=SoyeonKim%20text&fontColor=ffffff )
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=F4C2C2&text=SoyeonKim&fontColor=ffffff&desc=Front-end%20Developer&descAlign=51&descAlignY=64)
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
