@@ -9,3 +9,5 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+![Soylatte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soylatte&show_icons=true&theme=dracula)
